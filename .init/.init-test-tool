@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/mongodb-automation-agent-system-164322-164331/multi_agent_backend"
+}
